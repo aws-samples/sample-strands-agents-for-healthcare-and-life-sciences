@@ -1,5 +1,7 @@
 # strands-agents-for-healthcare-and-life-sciences
 
+> **⚠️ Important Update (Dec, 2025):** This project has now migrated to [Bedrock Agents for Healthcare and Lifecycles](https://github.com/aws-samples/amazon-bedrock-agents-healthcare-lifesciences/tree/main/multi_agent_collaboration/cancer_biomarker_discovery/strands_agentcore) and this repository is not being maintained anymore.
+
 In these sample notebooks you will explore how agentic workflows powered by Strands framework and large language models on Amazon Bedrock can enhance complex oncology research. You will learn how AI-driven agents leverage planning, tool-use, and self-reflection to transform intricate research queries into actionable insights.
 
 ## Prerequisites
